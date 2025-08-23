@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Elements
-image: assets/images/profile picture 1.jpg
+image: assets/images/profilepicture1.jpg
 nav-menu: true
 ---
 <!--

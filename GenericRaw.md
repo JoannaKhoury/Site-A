@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: About
+description: About Joanna
 image: assets/images/profilepicture1.jpg
 nav-menu: true
 ---
